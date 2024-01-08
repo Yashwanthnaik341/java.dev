@@ -1,0 +1,9 @@
+important commands
+
+ls= show files
+ls -a = show all files
+vim= create a new file
+cd ..= back to the repositry
+rm -rf= delete repositry
+rm = remove file 
+	 

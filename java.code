@@ -6,4 +6,6 @@ vim= create a new file
 cd ..= back to the repositry
 rm -rf= delete repositry
 rm = remove file 
+
+ftrrgg
 	 
